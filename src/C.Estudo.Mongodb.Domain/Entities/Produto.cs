@@ -1,6 +1,4 @@
-﻿using C.Estudo.Mongodb.Domain.Validations.GuidGenerator;
-using MongoDB.Bson.Serialization.Attributes;
-using System;
+﻿using MongoDB.Bson.Serialization.Attributes;
 
 namespace C.Estudo.Mongodb.Domain.Entities
 {
