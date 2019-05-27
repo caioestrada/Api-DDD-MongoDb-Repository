@@ -1,5 +1,5 @@
 # Api-DDD-MongoDb-Repository
-Exemplo de API REST criada com o ASP.NET Core Com Mongodb
+Exemplo de API REST em ASP.NET Core com Mongodb
 
 ### Pré-requisitos
 ---
